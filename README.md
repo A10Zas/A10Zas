@@ -8,7 +8,7 @@
 
 ---
 
-### 🧽 Who Am I?
+### 👨‍💻 Who Am I?
 
 > *"Oh captain, my captain."* – Dead Poets Society
 
@@ -25,39 +25,21 @@ const zunaid = {
 
 ---
 
-### ⚙️ `tech-stack.config.js`
+### 🧪 Vintage Terminal – `tech-stack.config`
 
-#### 💡 Languages & Frameworks
+```bash
+Languages:      JavaScript, Java, TypeScript
+Frontend:       React, Next.js, Remix, TailwindCSS
+Backend:        Node.js, Express, NestJS, Supabase, Appwrite
+Databases:      MongoDB, PostgreSQL, Firebase
+DevTools:       Git, GitHub, Docker, Figma, Storybook, Vitest, Jest
+```
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square\&logo=java\&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Remix](https://img.shields.io/badge/-Remix-000?style=flat-square\&logo=remix\&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-
-#### 🧹 Backend & Databases
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square\&logo=appwrite\&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
-
-#### 🛠️ Dev Tools & Services
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-![Eraser](https://img.shields.io/badge/-Eraser.io-2E3440?style=flat-square\&logo=data\:image/svg+xml;base64,...)
+> ⚙️ **Code is poetry.** Each stack I touch becomes a reflection of passion and polish.
 
 ---
 
-### 🔭 Projects
+### 🧩 Featured Projects
 
 ```ts
 const projects = [
@@ -69,35 +51,63 @@ const projects = [
   {
     name: "Notes Sharing Platform",
     stack: ["Next.js", "Supabase", "Drizzle ORM"],
-    summary: "Collaborative platform for teachers and students to share notes and manage batches."
+    summary: "Collaborative platform for teachers and students."
   },
   {
     name: "Client Management Dashboard",
     stack: ["Remix.js", "Nest.js", "MongoDB"],
-    summary: "Admin panel for managing clients, communication, and billing history."
+    summary: "Admin panel to manage clients, communications, and billing."
   },
   {
-    name: "Personal Portfolio (Game Style)",
+    name: "DevJunior Blog",
+    stack: ["React", "Next.js"],
+    summary: "My blog project where I learned React fundamentals & framework patterns."
+  },
+  {
+    name: "FAQ Chat App",
+    stack: ["Next.js", "NLP", "Socket.io"],
+    summary: "A chatbot that answers FAQs using NLP tailored to specific domains."
+  },
+  {
+    name: "Remix ToDo App",
+    stack: ["Remix.js", "TailwindCSS"],
+    summary: "A simple, elegant productivity-focused task manager."
+  },
+  {
+    name: "College Management System",
+    stack: ["Remix.js", "Nest.js", "MongoDB"],
+    summary: "Final-year major project to manage students, faculty, and reports."
+  },
+  {
+    name: "College Tech Fest Portal",
+    stack: ["Next.js", "NLP", "OCR", "Socket.io"],
+    summary: "Anonymous chat, OCR text extractor, and a Wikipedia-based NLP chatbot."
+  },
+  {
+    name: "Portfolio (Game Style)",
     stack: ["Next.js", "Three.js", "GSAP"],
-    summary: "A game-inspired online identity — coming soon."
+    summary: "An interactive, gamified digital identity (coming soon)."
   },
 ];
 ```
 
-> *“Simplicity is the soul of efficiency.”*
-> Every project I take on reflects a strong focus on clean design, modular architecture, and solving real problems.
+> 🧠 *Every project reflects curiosity, exploration, and a hunger for elegant solutions.*
 
 ---
 
-### 🔀 Currently Exploring
+### 🔍 Current Areas of Exploration
 
-* 🧠 Java + Spring Boot – Diving deeper into microservices
-* 🛡️ Component-based UI – Figma + Storybook + Remix
-* 📱 React Native – Cross-platform dev workflows
-* 🛆 Docker – Dev to Prod containerization
-* 🧪 Jest + Vitest – Test-first development workflows
+```bash
+🛠  Java + Spring Boot     → Microservices & API-driven design
+🎨  Figma + Storybook      → Component-driven UI/UX
+📱  React Native           → True cross-platform mobile development
+🔁  Docker                 → Containerization and CI/CD
+✅  Testing Frameworks     → Test-first with Jest + Vitest
+```
 
-### 📊 GitHub Stats
+---
+
+### 📈 GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=A10Zas&show_icons=true&theme=tokyonight" height="150" />
@@ -106,6 +116,16 @@ const projects = [
 
 ---
 
+### 🧠 Philosophy
+
 <p align="center">
   <i>"Oh captain, my captain." – A reminder to never stop questioning, building, and leading with passion.</i>
 </p>
+
+> "Software isn’t just code — it's a medium to tell stories, solve real problems, and build bridges between people."
+
+---
+
+#### 💬 Want to build something cool together?
+
+Ping me, I’m always down to collaborate with passionate folks ✨
