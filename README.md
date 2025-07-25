@@ -60,7 +60,7 @@ const zunaid = {
 ```ts
 const projects = [
   {
-    name: "Typing Exam Analyzer",
+    name: "Stenography Project",
     stack: ["React", "diff-match-patch", "TailwindCSS"],
     summary: "Compare typing accuracy with visual diff for speed tests."
     status: "Completed"
@@ -77,12 +77,12 @@ const projects = [
   },
   {
     name: "DevJunior Blog",
-    stack: ["React", "Next.js"],
+    stack: ["React.js", "TailwindCSS"],
     summary: "My blog project where I learned React fundamentals & framework patterns."
   },
   {
     name: "FAQ Chat App",
-    stack: ["Next.js", "NLP", "Socket.io"],
+    stack: ["Next.js", "NLP", "fuse.js"],
     summary: "A chatbot that answers FAQs using NLP tailored to specific domains."
   },
   {
@@ -92,17 +92,22 @@ const projects = [
   },
   {
     name: "College Management System",
-    stack: ["Remix.js", "Nest.js", "MongoDB"],
+    stack: ["Remix.js", "Mantine UI", "MongoDB"],
     summary: "Final-year major project to manage students, faculty, and reports."
   },
   {
-    name: "College Tech Fest Portal",
+    name: "College Management System Backend",
+    stack: [ "Nest.js", "MongoDB"],
+    summary: "Final-year major project to manage students, faculty, and reports."
+  },
+  {
+    name: "College Tech Fest Project Nlp+Ocr+Chat App",
     stack: ["Next.js", "NLP", "OCR", "Socket.io"],
     summary: "Anonymous chat, OCR text extractor, and a Wikipedia-based NLP chatbot."
   },
   {
-    name: "Portfolio ",
-    stack: ["Next.js", ],
+    name: "Portfolio Website",
+    stack: ["Next.js","TailwindCSS","ShadCN/UI" ],
     summary: "A simple protfolio for myself."
   },
 ];
