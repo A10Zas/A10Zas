@@ -99,17 +99,6 @@ const projects = [
 * 🛆 Docker – Dev to Prod containerization
 * 🧪 Jest + Vitest – Test-first development workflows
 
----
-
-### 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0077B5\&logoColor=white\&style=for-the-badge)](https://linkedin.com/in/zunaidahammed)
-[![Email](https://img.shields.io/static/v1?message=Email\&logo=gmail\&label=\&color=EA4335\&logoColor=white\&style=for-the-badge)](mailto:zunaidahammed.dev@gmail.com)
-
-> Whether it’s building something impactful, collaborating on open-source, or just vibing over tech and movies – I’m always down for a good conversation.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
