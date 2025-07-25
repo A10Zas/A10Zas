@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Oh%20captain,%20my%20captain,%20I'm%20Zunaid%20Ahammed&textBg=false&reversal=false&fontAlign=50&descAlignY=83&fontSize=36" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Oh%20captain,%20My%20captain,%20I'm%20Zunaid%20Ahammed&textBg=false&reversal=false&fontAlign=50&descAlignY=83&fontSize=36" alt="Header" />
 </p>
 
 <p align="center">
@@ -146,12 +146,22 @@ const teaching = {
 
 ### 📫 Let’s Connect
 
-* 🔗 [Portfolio](https://your-portfolio-link.com)
-* 🐦 [Twitter](https://twitter.com/yourhandle)
-* 📧 Email: `you@example.com`
-* 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+* 🔗 [Portfolio](https://a10zas.vercel.app/)
+* 🐦 [BlueSky](https://bsky.app/profile/a10zas.bsky.social)
+* 📧 Email: `zunaid.a10@outlook.com`
+* 💼 [LinkedIn](https://www.linkedin.com/in/zunaid-ahammed-59b381239/)
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a10zas&show_icons=true&theme=tokyonight&hide_border=true" alt="Zunaid's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=a10zas&theme=tokyonight&hide_border=true" alt="Zunaid's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a10zas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:161b22,0d1117&height=160&section=footer&fontSize=18&fontAlignY=40&fontColor=58a6ff&fontFamily=Fira+Code&desc=“Simplicity+is+the+soul+of+efficiency.”+–+Austin+Freeman." alt="Footer" />
