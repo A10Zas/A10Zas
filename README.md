@@ -63,10 +63,9 @@ const projects = [
     name: "Stenography Project",
     stack: ["React", "diff-match-patch", "TailwindCSS"],
     summary: "Compare typing accuracy with visual diff for speed tests."
-    status: "Completed"
   },
   {
-    name: "Codenest- Notes Sharing Platform",
+    name: "Codenest - Notes Sharing Platform",
     stack: ["Next.js", "Supabase", "Drizzle ORM"],
     summary: "Collaborative platform for teachers and students."
   },
@@ -160,11 +159,10 @@ const teaching = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a10zas&show_icons=true&theme=tokyonight&hide_border=true" alt="Zunaid's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=a10zas&theme=tokyonight&hide_border=true" alt="Zunaid's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a10zas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a10zas&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Zunaid's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=a10zas&theme=dracula&hide_border=true" alt="Zunaid's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a10zas&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 
