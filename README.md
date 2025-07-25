@@ -163,8 +163,8 @@ const teaching = {
   <img src="https://streak-stats.demolab.com?user=a10zas&theme=dracula&hide_border=true" alt="Zunaid's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a10zas&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
----
 
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:161b22,0d1117&height=160&section=footer&fontSize=18&fontAlignY=40&fontColor=58a6ff&fontFamily=Fira+Code&desc=“Simplicity+is+the+soul+of+efficiency.”+–+Austin+Freeman." alt="Footer" />
