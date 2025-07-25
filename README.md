@@ -66,7 +66,7 @@ const projects = [
     status: "Completed"
   },
   {
-    name: "Notes Sharing Platform",
+    name: "Codenest- Notes Sharing Platform",
     stack: ["Next.js", "Supabase", "Drizzle ORM"],
     summary: "Collaborative platform for teachers and students."
   },
