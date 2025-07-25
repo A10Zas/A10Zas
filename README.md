@@ -1,65 +1,61 @@
-<!-- Vintage GitHub README for Zunaid Ahammed -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Zunaid%20Ahammed&fontSize=50&fontAlign=50&animation=twinkling&desc=Just%20a%20programmer%20with%20a%20very%20particular%20set%20of%20skills.&descAlign=50&descAlignY=70" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Oh%20captain,%20my%20captain,%20I'm%20Zunaid%20Ahammed&textBg=false&reversal=false&animation=twinkling&fontAlign=50&descAlignY=83&fontSize=30" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFD2&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Passionate+about+building+for+the+web.;Remix.js+%7C+Next.js+%7C+Nest.js+%7C+Supabase+%7C+MongoDB;Always+Learning+Always+Building;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=600&size=24&duration=3000&pause=1000&color=00FFD2&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Crafting+clean+code+and+modern+UX.;React.js+%7C+Next.js+%7C+Nest.js+%7C+Supabase+%7C+MongoDB;Learning+Daily,+Building+Always.;%F0%9F%92%A1+Founder+of+The+Syntax+%E2%80%93+Real+World+Builders+;" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧽 Who Am I?
+### 🧭 About Me
 
-> *"Oh captain, my captain."* – Dead Poets Society
+> _“Oh captain, my captain.”_ – Dead Poets Society
 
-```js
+```ts
 const zunaid = {
   name: "Zunaid Ahammed",
   title: "Full Stack Web Developer",
-  quote: "Just a programmer with a very particular set of skills.",
+  quote: "A programmer with a very particular set of skills.",
   location: "India",
-  mission: "Crafting meaningful web experiences through code and community.",
-  currentlyLearning: ["Java + Spring Boot", "UI/UX Design", "React Native"],
+  mission: "Empowering ideas through clean code, elegant UI, and real-world solutions.",
+  passions: ["Teaching", "Open Source", "Design Systems", "Developer Communities"],
+  currentlyLearning: ["Java + Spring Boot", "UI/UX Design", "React Native"]
 };
 ```
 
 ---
 
-### ⚙️ `tech-stack.config.js`
+### ⚙️ Tech Toolbox
 
-#### 💡 Languages & Frameworks
+#### 🧠 Core Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square\&logo=java\&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Remix](https://img.shields.io/badge/-Remix-000?style=flat-square\&logo=remix\&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Remix](https://img.shields.io/badge/-Remix-000?style=flat-square&logo=remix&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-#### 🧹 Backend & Databases
+#### 📦 Backend & Database
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square\&logo=appwrite\&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-4B0082?style=flat-square)
 
-#### 🛠️ Dev Tools & Services
+#### 🛠 Tools of Trade
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-![Eraser](https://img.shields.io/badge/-Eraser.io-2E3440?style=flat-square\&logo=data\:image/svg+xml;base64,...)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
 ---
 
-### 🔭 Projects
+### 🚀 Featured Projects
 
 ```ts
 const projects = [
@@ -67,6 +63,7 @@ const projects = [
     name: "Typing Exam Analyzer",
     stack: ["React", "diff-match-patch", "TailwindCSS"],
     summary: "Compare typing accuracy with visual diff for speed tests."
+    status: "Completed"
   },
   {
     name: "Notes Sharing Platform",
@@ -104,36 +101,58 @@ const projects = [
     summary: "Anonymous chat, OCR text extractor, and a Wikipedia-based NLP chatbot."
   },
   {
-    name: "Portfolio (Game Style)",
-    stack: ["Next.js", "Three.js", "GSAP"],
-    summary: "An interactive, gamified digital identity (coming soon)."
+    name: "Portfolio ",
+    stack: ["Next.js", ],
+    summary: "A simple protfolio for myself."
   },
 ];
 ```
 
-> *“Simplicity is the soul of efficiency.”*
-> Every project I take on reflects a strong focus on clean design, modular architecture, and solving real problems.
+---
+
+### 📚 Current Focus Areas
+
+- 🧠 **Spring Boot Microservices** — Revisiting Java with industry best practices  
+- 💡 **React Native** — Exploring cross-platform mobile solutions  
+- 🎨 **Design Systems** — Component libraries, UI kits, and user flow thinking  
+- 📦 **Dockerization** — Building consistent, production-ready containers  
+- 🧪 **Testing Frameworks** — TDD with Vitest, Jest, and Storybook  
 
 ---
 
-### 🔀 Currently Exploring
+### 🧪 Teaching & Mentoring
 
-* 🧠 Java + Spring Boot – Diving deeper into microservices
-* 🛡️ Component-based UI – Figma + Storybook + Remix
-* 📱 React Native – Cross-platform dev workflows
-* 🛆 Docker – Dev to Prod containerization
-* 🧪 Jest + Vitest – Test-first development workflows
+```ts
+const teaching = {
+  platform: "Startup Courses with Friends",
+  batchSize: 15,
+  format: ["Live coding", "Problem solving", "Hands-on"],
+  topics: ["React", "Full-stack Development"]
+};
+```
 
-### 📊 GitHub Stats
+💬 I believe in **learning by doing**. I actively mentor others in React and full stack practices, and I’m always happy to help beginners on their journey.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A10Zas&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A10Zas&theme=tokyonight" height="150"/>
-</p>
+---
+
+### 🧘‍♂️ Personal Philosophy
+
+> _“Oh captain, my captain.”_  
+> A reminder to never stop questioning, leading, and pushing boundaries.
+
+> “Programming is not just about solving problems—it’s about **creating impact** and **building stories** through code.”
+
+---
+
+### 📫 Let’s Connect
+
+* 🔗 [Portfolio](https://your-portfolio-link.com)
+* 🐦 [Twitter](https://twitter.com/yourhandle)
+* 📧 Email: `you@example.com`
+* 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
 <p align="center">
-  <i>"Oh captain, my captain." – A reminder to never stop questioning, building, and leading with passion.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:161b22,0d1117&height=160&section=footer&fontSize=18&fontAlignY=40&fontColor=58a6ff&fontFamily=Fira+Code&desc=“Simplicity+is+the+soul+of+efficiency.”+–+Austin+Freeman." alt="Footer" />
 </p>
- make these look more vintage and give me the read me in markdown in another slate  and use this quote "Oh captain, my captain." more efficiently
