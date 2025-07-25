@@ -113,8 +113,8 @@ const projects = [
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zunaidahammed&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunaidahammed&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=A10Zas&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A10Zas&theme=tokyonight" height="150"/>
 </p>
 
 ---
