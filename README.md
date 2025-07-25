@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Oh%20captain,%20my%20captain,%20I'm%20Zunaid%20Ahammed&textBg=false&reversal=false&animation=twinkling&fontAlign=50&descAlignY=83&fontSize=30" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Oh%20captain,%20my%20captain,%20I'm%20Zunaid%20Ahammed&textBg=false&reversal=false&fontAlign=50&descAlignY=83&fontSize=36" alt="Header" />
 </p>
 
 <p align="center">
