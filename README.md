@@ -109,6 +109,11 @@ const projects = [
     stack: ["Next.js","TailwindCSS","ShadCN/UI" ],
     summary: "A simple protfolio for myself."
   },
+{
+    name: "Biling Software Website",
+    stack: ["React.js","TailwindCSS","ShadCN/UI","supabase" ],
+    summary: "A simple Billing Software with supabase."
+  },
 ];
 ```
 
